@@ -1,0 +1,17 @@
+# Keil编译产物
+Objects/
+Listings/
+*.axf
+*.d
+*.o
+*.lst
+*.map
+*.dep
+
+# Keil界面文件
+*.uvguix.*
+*.uvoptx
+
+# 系统文件
+.DS_Store
+Thumbs.db
