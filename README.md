@@ -45,18 +45,3 @@ STM32F103嵌入式学习记录 | DMA / GPIO / RTOS / TinyML
 \- IDE：Keil MDK
 
 \- 库：标准外设库 SPL
-
-```
-
-
-
-保存后，再执行三行命令上传：
-
-```
-
-git add .
-
-git commit -m "更新README学习进度"
-
-git push
-
